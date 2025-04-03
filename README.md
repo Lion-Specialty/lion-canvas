@@ -1,10 +1,6 @@
 # Lion Canvas
 
-Lion Canvas is an open-source web application built for professionals in the financial sector, facilitating collaboration with AI agents to enhance the creation of newsletters, LinkedIn posts, and other media content. It is a specialized fork of [Open Canvas](https://github.com/langchain-ai/open-canvas) with the following key features:
-
-1. **Specialized for Financial Content**: Designed specifically to assist in drafting and refining content pertinent to financial institutions, ensuring relevance and accuracy.
-2. **Integrated Compliance Checks**: Incorporates tools to ensure that all generated content adheres to industry regulations and standards.
-3. **Enhanced Security**: Implements robust security measures to protect sensitive financial information during the content creation process.
+Lion Canvas is an open-source web application built for professionals in the financial sector, facilitating collaboration with AI agents to enhance the creation of newsletters, LinkedIn posts, and other media content. It is a specialized fork of [Open Canvas](https://github.com/langchain-ai/open-canvas).
 
 ## Features
 
